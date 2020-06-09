@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48075136811",
+    "firebase_url": "https://apinstagrameclone.firebaseio.com",
+    "project_id": "apinstagrameclone",
+    "storage_bucket": "apinstagrameclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48075136811:android:cb0608f40a990058366f6e",
+        "android_client_info": {
+          "package_name": "com.example.instagrameclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48075136811-51h30vm5g4uua5k28itpqcv1ntlh14bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZ5XwyC44LNN1XWhMyEoY0fPCn44vZAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48075136811-51h30vm5g4uua5k28itpqcv1ntlh14bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
